@@ -20,3 +20,9 @@ A simple Python-based GUI client for interacting with **Hadoop Distributed File 
 - **Subprocess Module**: To execute HDFS commands via the Linux terminal.
 - **Hadoop**: Tested on a CentOS VM with Hadoop installed and configured.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/317167ba-f05b-4085-bcf7-d37e1a2310b5
+
+
